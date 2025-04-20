@@ -1,0 +1,28 @@
+{
+  "Boissons": [
+    "<s>Mojito</s>",
+    "<s>Virgin mojito</s>",
+    "Rosé",
+    "Vouvray",
+    "Jus de fruit",
+    "Soda",
+    "Eau à volonté"
+  ],
+  "Entrées": [
+    "Salade Alaska",
+    "Carottes râpées"
+  ],
+  "Plats": [
+    "Chipolata",
+    "Merguez",
+    "Ribs",
+    "Chips"
+  ],
+  "Gâteau surprise": [],
+  "Digestifs": [
+    "Milk shake",
+    "Café",
+    "Thé",
+    "Poire au rhum"
+  ]
+}

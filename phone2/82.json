@@ -1,0 +1,19 @@
+{
+  "banned": false,
+  "name": "Patrick Ledeuil",
+  "age": 17,
+  "alcohol": false,
+  "activities": true,
+  "conference": true,
+  "arrival": null,
+  "foods": [],
+  "drinks": [],
+  "score": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}
